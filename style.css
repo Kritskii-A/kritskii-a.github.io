@@ -1,0 +1,13 @@
+.aboutWrapper {
+  display: flex;
+  height: 200px;
+}
+
+.aboutText {
+  margin: auto;
+}
+
+.aboutPhoto {
+  text-align: center;
+  margin: auto;
+}
