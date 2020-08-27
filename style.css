@@ -1,13 +1,14 @@
 .aboutWrapper {
   display: flex;
-  height: 200px;
+  flex-wrap: wrap;
 }
 
 .aboutText {
   margin: auto;
+  text-align: center;
 }
 
 .aboutPhoto {
   text-align: center;
-  margin: auto;
+  margin: 20px auto;
 }
