@@ -1,0 +1,88 @@
+canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  background-color: #6c8cd538;
+}
+
+/* Score */
+
+.score {
+  color: #2a4480;
+}
+
+.score-wrapper {
+  float: right;
+  margin-right: 2rem;
+  padding: 2rem;
+  border-radius: 20%;
+  background-color: #6c8cd585;
+  position: absolute;
+  z-index: 2;
+  right: 0;
+}
+
+/* ./Score */
+
+/* Footer */
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 50px;
+  background-color: #06266f;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.footer a {
+  color: #ffbf40;
+}
+
+/* ./Footer */
+
+/* Navbar */
+
+.navbar.navbar-default {
+  background: none;
+  z-index: 1;
+  background-color: #4671d5;
+  border: none;
+}
+
+.navbar-default .navbar-brand {
+  color: #fff;
+}
+
+.navbar-default .navbar-brand:hover {
+  color: #ffbf40;
+}
+
+/* ./Navbar */
+
+/* Modal */
+
+.modal-dialog {
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.modal.fade .modal-dialog {
+  transform: translate(0, -100%);
+}
+
+.modal.in .modal-dialog {
+  transform: translate(0, 0);
+}
+
+/* ./Modal */
