@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2fbb743af959cbf8353",
+    "revision": "775bc65defe3de377e66",
     "url": "/css/app.7a770897.css"
   },
   {
@@ -22,6 +22,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b1bedb8e748de2baeea9c2a135027536",
     "url": "/fonts/icons.b1bedb8e.woff2"
+  },
+  {
+    "revision": "b9f496e15bc33683b59174d748226d84",
+    "url": "/img/doctor-prev.b9f496e1.jpg"
+  },
+  {
+    "revision": "154fb9de3fd4fd2b0cd194fe100753bb",
+    "url": "/img/doctor.154fb9de.png"
   },
   {
     "revision": "76371af1fb4a049f2fa7a14f6364ac26",
@@ -60,16 +68,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wc.c95c08ee.jpg"
   },
   {
-    "revision": "1eb162cd3738c65e64711846e6f019e5",
+    "revision": "426420b4ef1e9a001471d3275f0541e4",
     "url": "/index.html"
   },
   {
-    "revision": "e74a62b45adcf559317f",
-    "url": "/js/about.dd3784c8.js"
+    "revision": "ca15c6166b6877997210",
+    "url": "/js/about.41693f1d.js"
   },
   {
-    "revision": "b2fbb743af959cbf8353",
-    "url": "/js/app.7d6fd68b.js"
+    "revision": "775bc65defe3de377e66",
+    "url": "/js/app.82ab327e.js"
   },
   {
     "revision": "56d559ceb314900748bc",
