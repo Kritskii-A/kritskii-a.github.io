@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17e4a961ee1cbc76b24b",
+    "revision": "af81003bbc963368f373",
     "url": "/css/app.f4bbb7f6.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/icons.b1bedb8e.woff2"
   },
   {
-    "revision": "211a4242df534a6fc48cf13b29fdb71d",
-    "url": "/img/chess.211a4242.png"
+    "revision": "a760e607a2e1075b355906feaf8a9dfb",
+    "url": "/img/chess.a760e607.png"
   },
   {
     "revision": "b9f496e15bc33683b59174d748226d84",
@@ -76,16 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/xo.80806a35.png"
   },
   {
-    "revision": "eae564b283d4a2583a0c3b9bbd8c6ae6",
+    "revision": "97cacfa93a9548a26ab69823fffe006c",
     "url": "/index.html"
   },
   {
-    "revision": "8026432f3b352626a858",
-    "url": "/js/about.9dba75d9.js"
+    "revision": "a99be1099f5e62e395e0",
+    "url": "/js/about.efa0099a.js"
   },
   {
-    "revision": "17e4a961ee1cbc76b24b",
-    "url": "/js/app.e66425c0.js"
+    "revision": "af81003bbc963368f373",
+    "url": "/js/app.e4ccc7c1.js"
   },
   {
     "revision": "ba165da690e5603d982b",
